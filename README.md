@@ -57,4 +57,3 @@ Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
-Você pode copiar e colar este conteúdo no seu arquivo `README.md`. Se precisar de mais alguma coisa, estou aqui para ajudar! 🚀
